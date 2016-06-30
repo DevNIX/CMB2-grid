@@ -1,6 +1,8 @@
 # CMB2-grid
 A grid system for Wordpress [CMB2](https://github.com/WebDevStudios/cmb2) library that allows the creation of columns for a better layout in the admin.
 
+This is a frontend fixed version of the original plugin made by Dev_NIX.
+
 ## Installation
 
 For now you have to install this as a WordPress plugin:
