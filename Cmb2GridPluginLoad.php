@@ -16,9 +16,9 @@ if ( ! class_exists( '\Cmb2Grid\Cmb2GridPlugin' ) ) {
 		const VERSION = '1.0';
 
 		protected function __construct() {
-			if ( ! is_admin() ) {
+			/*if ( ! is_admin() ) {
 				return;
-			}
+			}*/
 
 			spl_autoload_register( array( $this, 'auto_load' ) );
 
